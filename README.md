@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=W%20E%20L%20C%20O%20M%20E&fontSize=90)
 ### 게임 개발자 꿈을 위해 게임 개발을 하고 있는 주니어 개발자 입니다!
-</br>
+
 ## 연락처
 [![GMAIL](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sonwonill912@gmail.com)
 [![KAKAOTALK](https://img.shields.io/badge/-KakaoTalk-%23FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/s8JiUZgg)
