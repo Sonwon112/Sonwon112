@@ -19,10 +19,14 @@
 ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-%23000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
 ![unity](https://img.shields.io/badge/-unity-%23eeeeee?style=for-the-badge&logo=Unity&logoColor=black)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-%235C2D91?style=for-the-badge&logo=Visual%20Studio)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudio%20Code-%230098FF?style=for-the-badge&logo=Visual%20Studio%20Code)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
   + 💻 사용 가능한 프레임워크</br>
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+  + 💻 데이터베이스</br>
+![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
 
