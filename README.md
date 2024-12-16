@@ -28,7 +28,10 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-
+## Github
++ 💻 Stats</br>
+![Sonwonill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonwon112&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonwon112&layout=compact)
 
 <!--
 **Sonwon112/Sonwon112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
