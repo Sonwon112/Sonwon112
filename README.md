@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=W%20E%20L%20C%20O%20M%20E&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sonwonill&fontSize=90)
 ### 게임 / VR/AR 개발자 꿈을 위해 Unity Unreal을 공부 하고 있습니다!
 
 ## 연락처
@@ -27,6 +27,9 @@
   + 💻 데이터베이스</br>
 ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  + 💻 클라우드</br>
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=Amazon&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ## Github
 + 💻 Stats</br>
