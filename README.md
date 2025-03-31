@@ -29,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   + 💻 클라우드</br>
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=Amazon&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/-OCI-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ## Github
 + 💻 Stats</br>
